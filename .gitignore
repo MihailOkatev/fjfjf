@@ -1,1 +1,5 @@
-*_backap
+*_backup
+*_old
+Thumbs.db
+.DS_Store
+tmp/
